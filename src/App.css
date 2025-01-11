@@ -4,8 +4,7 @@ body {
   box-sizing: border-box;
 }
 
-.navbar-nav .nav-link, .navbar-nav .nav-link.active, .navbar-nav .nav-link.show,
-.bi, .nav-link{
+.navbar-nav .nav-link, .navbar-nav .nav-link.active, .navbar-nav .nav-link.show, .nav-link{
   color: white;
   opacity: 0.5;
   transition: opacity 0.3s ease;
@@ -14,8 +13,6 @@ body {
 .nav-link:hover,
 .navbar-nav .nav-link:focus,
 .nav-link:focus,
-.bi:hover,
-.bi:focus,
 .carousel-control-next-icon:hover,
 .carousel-control-next-icon {
   color: white;
